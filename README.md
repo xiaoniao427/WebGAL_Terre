@@ -5,7 +5,7 @@
 
 ### [English](README_EN.md) | [日本語](README_JP.md)
 
-## 这是 WebGAL 可视化编辑器项目。如果你想要查看 WebGAL 的源代码，请前往 [WebGAL代码仓库](https://github.com/OpenWebGAL/WebGAL)
+## 这是 WebGAL 可视化编辑器项目。如果你想要查看 WebGAL 的源代码，请前往 [WebGAL代码仓库](https://gitee.com/tzhd427/WebGAL)
 
 # WebGAL_Terre
 
@@ -21,7 +21,7 @@
 
 ##### 下载链接
 
-https://github.com/OpenWebGAL/WebGAL_Terre/releases
+https://gitee.com/tzhd427/WebGAL_Terre/releases
 
 ## 使用说明
 
@@ -31,13 +31,9 @@ https://docs.openwebgal.com/
 
 [WebGAL Terre 贡献指南](https://docs.openwebgal.com/developers/terre.html)
 
-### 赞助
+### 开源协议
 
 WebGAL 是一款开源软件，因此你可以免费在 MPL-2.0 开源协议的范畴下使用本软件，并可用于商业使用。
-
-但即便如此，你的赞助也可以给予开发者前进的动力，让这个项目变得更好。
-
-[赞助本项目](https://docs.openwebgal.com/sponsor/)
 
 
 # Sponsors
