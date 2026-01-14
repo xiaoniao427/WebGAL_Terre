@@ -21,7 +21,7 @@
 
 ##### 下载链接
 
-https://gitee.com/tzhd427/WebGAL_Terre/releases
+https://github.com/xiaoniao427/WebGAL_Terre/releases
 
 ## 使用说明
 
